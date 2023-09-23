@@ -1,0 +1,5 @@
+#+TITLE:     Bob's Content of Interest
+#+AUTHOR:    Robert Nadler
+#+EMAIL:     robert.nadler@gmail.com
+
+[[https://gohugo.io/][Hugo]] project for [[https://bobonmedicaldevicesoftware.com/coi/][Bob's Content of Interest]].
