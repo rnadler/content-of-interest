@@ -50,6 +50,7 @@
 *** [[https://www.serverlesslife.com/rss.xml][Serverless Life]]
 *** [[https://www.elastictier.com/feed][elastic tier newsletter]]
 *** [[https://www.architecture-weekly.com/feed][Architecture Weekly]]
+*** [[https://tmr08c.github.io/rss.xml][TroyProg]]
 ** Emacs :emacs:
 *** [[https://planet.emacslife.com/atom.xml][Planet Emacslife]]
 -  [[https://irreal.org/blog/?feed=rss2][Irreal]]
