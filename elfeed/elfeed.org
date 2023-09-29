@@ -1,6 +1,7 @@
 * Imported Feeds :elfeed:
 ** Medical Devices :med_dev:
 *** [[https://bobonmedicaldevicesoftware.com/blog/feed/][Bob on Medical Device Software]]
+*** [[https://bobonmedicaldevicesoftware.com/coi/index.xml][Bob's COI]]
 *** [[http://feeds.feedburner.com/Medgadget][Medgadget]]
 *** [[https://www.google.com/alerts/feeds/00675895880009107218/7602843549073834453][Medical Device Software]]
 *** [[https://www.medtechdive.com/feeds/news][MedTechDive]]
@@ -51,6 +52,8 @@
 *** [[https://www.elastictier.com/feed][elastic tier newsletter]]
 *** [[https://www.architecture-weekly.com/feed][Architecture Weekly]]
 *** [[https://tmr08c.github.io/rss.xml][TroyProg]]
+*** [[https://www.infoworld.com/blog/new-tech-forum/index.rss][InfoWorld New Tech Forum]]
+*** [[https://www.infoworld.com/category/application-development/index.rss][InfoWorld Software Development]]
 ** Emacs :emacs:
 *** [[https://planet.emacslife.com/atom.xml][Planet Emacslife]]
 -  [[https://irreal.org/blog/?feed=rss2][Irreal]]
@@ -69,6 +72,7 @@
 *** [[http://www.randsinrepose.com/feed/][Rands In Repose]]
 *** [[http://xkcd.com/rss.xml][xkcd.com]]
 *** [[https://isamert.net/feed/main.xml][Isamert]]
+
 ** Healthcare IT :health_it:
   -  [[http://histalk2.com/feed][HIStalk]]
   -  [[http://www.emrandhipaa.com/feed/][EMR and HIPAA]]
