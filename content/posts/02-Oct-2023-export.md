@@ -26,7 +26,7 @@ draft = false
 # Link Collections
 
 -   [Introducing elfeed-curate](https://bobonmedicaldevicesoftware.com/blog/2023/10/02/introducing-elfeed-curate/) (Bob)
-    `Yeah!`
+    `Yay!`
 -   [Holy Dev Newsletter Sep 2023](https://blog.jakubholy.net/2023/09-newsletter/) (Jakub Holý) ****[Software]****
 
 
