@@ -7,7 +7,7 @@ ARCH_TAR=elfeed-archive.tar
 PROJ_DIR="$(pwd)/elfeed"
 
 cd ${ELFEED_DIR}
-tar czf ${PROJ_DIR}/${ARCH_TAR}.bak ./*
+tar czf ${PROJ_DIR}/${ARCH_TAR}.bak ./index
 rm -rf ./*
 tar -xvf ${PROJ_DIR}/${ARCH_TAR}
 cp -v -u ${PROJ_DIR}/elfeed.org ~/org
