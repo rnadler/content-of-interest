@@ -55,6 +55,7 @@
 *** [[https://www.infoworld.com/blog/new-tech-forum/index.rss][InfoWorld New Tech Forum]]
 *** [[https://www.infoworld.com/category/application-development/index.rss][InfoWorld Software Development]]
 *** [[https://jvns.ca/atom.xml][Julia Evans]]
+*** [[https://renegadeotter.com/feed][Renegade Otter]]
 ** Emacs :emacs:
 *** [[https://planet.emacslife.com/atom.xml][Planet Emacslife]]
 -  [[https://irreal.org/blog/?feed=rss2][Irreal]]
