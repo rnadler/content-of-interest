@@ -4,6 +4,7 @@ title: Bob's Content of Interest
 paginate: 5
 theme: PaperMod
 publishDir: coi
+googleAnalytics: G-0EWS7SDDTX
 
 params:
   ShowPostNavLinks: true
