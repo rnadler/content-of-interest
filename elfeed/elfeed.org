@@ -7,7 +7,7 @@
 *** [[https://www.medtechdive.com/feeds/news][MedTechDive]]
 *** [[https://api.medicalfuturist.com/feed/][The Medical Futurist]]
 *** [[https://www.technologyhq.org/category/health-and-care/feed/][Health and Care Archives - TechnologyHQ]]
-
+*** [[https://medicaldeviceacademy.com/blog/feed/][Medical Device Academy]]
 ** Web :web:
 *** [[http://feeds.feedburner.com/ScottHanselman][Scott Hanselman's Computer Zen]]
 *** [[http://blog.stackoverflow.com/feed/][stackoverflow]]
@@ -57,6 +57,7 @@
 *** [[https://jvns.ca/atom.xml][Julia Evans]]
 *** [[https://renegadeotter.com/feed][Renegade Otter]]
 *** [[https://bartwullems.blogspot.com/feeds/posts/default][The Art of Simplicity]]
+*** [[https://juraj.hashnode.dev/rss.xml][Startup Engineering]]
 ** Emacs :emacs:
 *** [[https://planet.emacslife.com/atom.xml][Planet Emacslife]]
 -  [[https://irreal.org/blog/?feed=rss2][Irreal]]
