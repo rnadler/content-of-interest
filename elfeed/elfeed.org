@@ -63,6 +63,8 @@
 *** [[https://semaphoreci.com/feed][Semaphore]]
 *** [[https://www.cncf.io/blog/feed/][Cloud Native Computing Foundation]]
 *** [[https://nullprogram.com/feed/][null program]]
+*** [[https://simonwillison.net/atom/entries/][Simon Willison's Weblog]]
+*** [[https://event-driven.io/rss.xml][Event-Driven by Oskar Dudycz]]
 ** Emacs :emacs:
 *** [[https://planet.emacslife.com/atom.xml][Planet Emacslife]]
 -  [[https://irreal.org/blog/?feed=rss2][Irreal]]
