@@ -89,3 +89,4 @@
   -  [[http://www.emrandhipaa.com/feed/][EMR and HIPAA]]
 *** [[https://www.healthcareitnews.com/most_popular/feed][Healthcare IT News]]
 -  [[http://feeds.feedburner.com/XconomyHealthIT][Xconomy Health IT]]
+*** [[https://blog.google/technology/health/rss/][Google Health]]
