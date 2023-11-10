@@ -67,6 +67,7 @@
 *** [[https://event-driven.io/rss.xml][Event-Driven by Oskar Dudycz]]
 *** [[https://newsletter.goodtechthings.com/feed][Good Tech Things]]
 *** [[https://brianchambers.substack.com/feed][Chamber of Tech Secrets]]
+*** [[https://engineercodex.substack.com/feed][Engineer’s Codex]]
 ** Emacs :emacs:
 *** [[https://planet.emacslife.com/atom.xml][Planet Emacslife]]
 -  [[https://irreal.org/blog/?feed=rss2][Irreal]]
