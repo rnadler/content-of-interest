@@ -19,6 +19,8 @@
 - [[https://hnrss.org/frontpage][Hacker News]]
 - See [[https://hnrss.github.io/][Hacker News RSS]]
 *** [[https://newsletter.devmoh.co/feed][Devmoh]]
+*** [[https://www.biodigitaljazz.net/rss.xml][Bio-digital jazz, man]]
+*** [[https://www.scattered-thoughts.net/atom.xml][Scattered Thoughts]]
 ** Software :software:
 *** [[http://feeds.feedburner.com/d0od][OMG! Ubuntu!]]
 -  [[http://samsaffron.com/posts.rss][Sam Saffron]]
