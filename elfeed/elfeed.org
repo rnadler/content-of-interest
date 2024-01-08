@@ -75,6 +75,7 @@
 *** [[https://brianchambers.substack.com/feed][Chamber of Tech Secrets]]
 *** [[https://engineercodex.substack.com/feed][Engineer’s Codex]]
 *** [[https://lobste.rs/t/programming.rss][Lobsters Programming]]
+*** [[https://mikefisher.substack.com/feed][Fish Food for Thought]]
 ** Emacs :emacs:
 *** [[https://planet.emacslife.com/atom.xml][Planet Emacslife]]
 -  [[https://irreal.org/blog/?feed=rss2][Irreal]]
