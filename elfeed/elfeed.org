@@ -25,6 +25,7 @@
 *** [[https://erikbern.com/index.xml][Erik Bernhardsson]]
 *** [[https://www.runtime.news/rss/][Runtime News]]
 *** [[https://world.hey.com/dhh/feed.atom][David Heinemeier Hansson]]
+*** [[https://rss.beehiiv.com/feeds/1erpUYd0Eq.xml][Ironic Sans]]
 ** Software :software:
 *** [[http://feeds.feedburner.com/d0od][OMG! Ubuntu!]]
 -  [[http://samsaffron.com/posts.rss][Sam Saffron]]
