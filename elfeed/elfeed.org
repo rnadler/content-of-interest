@@ -92,6 +92,7 @@
 *** [[http://blog.wired.com/wiredscience/rss.xml][Science Latest]]
 -  [[http://feeds.feedburner.com/Scienceroll][ScienceRoll]]
 *** [[http://jkrouwer.wordpress.com/feed/][Krouwer Consulting]]
+*** [[https://www.nature.com/nature.rss][Nature]]
 ** Blogs :blogs:
 *** [[http://steve-yegge.blogspot.com/atom.xml][Stevey's Blog Rants]]
 *** [[http://www.randsinrepose.com/feed/][Rands In Repose]]
