@@ -26,6 +26,8 @@
 *** [[https://www.runtime.news/rss/][Runtime News]]
 *** [[https://world.hey.com/dhh/feed.atom][David Heinemeier Hansson]]
 *** [[https://rss.beehiiv.com/feeds/1erpUYd0Eq.xml][Ironic Sans]]
+*** [[https://xeiaso.net/blog.rss][Xe Iaso]]
+*** [[https://preslav.me/index.xml][Preslav Rachev]]
 ** Software :software:
 *** [[http://feeds.feedburner.com/d0od][OMG! Ubuntu!]]
 -  [[http://samsaffron.com/posts.rss][Sam Saffron]]
