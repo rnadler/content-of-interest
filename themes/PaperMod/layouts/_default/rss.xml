@@ -70,9 +70,11 @@
       <title>{{ .Title }}</title>
       <link>{{ .Permalink }}</link>
       <pubDate>{{ .PublishDate.Format "Mon, 02 Jan 2006 15:04:05 -0700" | safeHTML }}</pubDate>
-      {{- with $authorEmail }}<author>{{ . }}{{ with $authorName }} ({{ . }}){{ end }}</author>{{ end }}
+      {{- if and site.Params.AuthorFirstName site.Params.AuthorFirstName }}
+      <author>{{ site.Params.AuthorFirstName }} {{ site.Params.AuthorLastName }}</author>
+      {{- end }}
       <guid>{{ .Permalink }}</guid>
-      <description>{{ with .Description | html }}{{ . }}{{ else }}{{ .Summary | html }}{{ end -}}</description>
+      <description>{{ site.Params.AuthorFirstName }}'s {{ .Title }}</description>
       {{- if and site.Params.ShowFullTextinRSS .Content }}
       <content:encoded>{{ (printf "<![CDATA[%s]]>" .Content) | safeHTML }}</content:encoded>
       {{- end }}

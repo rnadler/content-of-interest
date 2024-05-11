@@ -10,6 +10,9 @@ params:
   ShowPostNavLinks: true
   ShowBreadCrumbs: true
   ShowRssButtonInSectionTermList: true
+  showFullTextinRSS: true
+  authorLastName: Nadler
+  authorFirstName: Bob
 
 menu:
   main:
