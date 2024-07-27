@@ -50,11 +50,11 @@
       {{- end }}
     </ul>
     {{- if not (eq .Title "404") }}
-      <div class="block dark:hidden">
+    <hr />
+    <div class="block dark:hidden">
         {{ partial "utterances" "github-light" }}
       </div>
       <div class="dark:block hidden">
-        <hr />
         {{ partial "utterances" "github-dark" }}
       </div>
     {{- end }}
