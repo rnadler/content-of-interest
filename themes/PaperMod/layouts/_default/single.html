@@ -49,7 +49,15 @@
       <li><a href="{{ .Permalink }}">{{ .LinkTitle }}</a></li>
       {{- end }}
     </ul>
-    {{ partial "utterances" "github-dark" }}
+    {{- if not (eq .Title "404") }}
+      <div class="block dark:hidden">
+        {{ partial "utterances" "github-light" }}
+      </div>
+      <div class="dark:block hidden">
+        <hr />
+        {{ partial "utterances" "github-dark" }}
+      </div>
+    {{- end }}
     {{- if (.Param "ShowPostNavLinks") }}
     {{- partial "post_nav_links.html" . }}
     {{- end }}

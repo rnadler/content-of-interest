@@ -58,3 +58,16 @@
 #theme-toggle:focus {
     outline: 0;
 }
+.block {
+    display: block
+}
+.hidden {
+    display: none
+}
+.dark\:block:where(.dark,.dark *) {
+    display: block
+}
+
+.dark\:hidden:where(.dark,.dark *) {
+    display: none
+}
