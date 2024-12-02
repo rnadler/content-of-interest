@@ -26,6 +26,7 @@
 *** [[https://rss.beehiiv.com/feeds/1erpUYd0Eq.xml][Ironic Sans]]
 *** [[https://xeiaso.net/blog.rss][Xe Iaso]]
 *** [[https://preslav.me/index.xml][Preslav Rachev]]
+*** [[https://github.com/doublecmd/doublecmd/releases.atom][Double Commander Releases]]
 ** Software :software:
 *** [[http://feeds.feedburner.com/d0od][OMG! Ubuntu!]]
 -  [[http://samsaffron.com/posts.rss][Sam Saffron]]
