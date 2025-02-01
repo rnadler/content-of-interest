@@ -28,6 +28,7 @@
 *** [[https://preslav.me/index.xml][Preslav Rachev]]
 *** [[https://github.com/doublecmd/doublecmd/releases.atom][Double Commander Releases]]
 *** [[https://www.tbray.org/ongoing/ongoing.atom][Tim Bray]]
+*** [[https://lethain.com/feeds.xml][Irrational Exuberance]]
 ** Software :software:
 *** [[http://feeds.feedburner.com/d0od][OMG! Ubuntu!]]
 -  [[http://samsaffron.com/posts.rss][Sam Saffron]]
