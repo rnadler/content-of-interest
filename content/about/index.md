@@ -22,5 +22,6 @@ Topics of interest:
 * Functional Programming -- Clojure(Script) Development
 * Emacs
 
-Also see [About Bob](https://bobonmedicaldevicesoftware.com/blog/about/). 
+Also see [About Bob](https://bobonmedicaldevicesoftware.com/blog/about/).
+<a rel="me" href="https://hachyderm.io/@bobnadler"></a>
 
