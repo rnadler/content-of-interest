@@ -38,7 +38,7 @@
 *** [[http://feeds2.feedburner.com/alvinashcraft][Morning Dew by Alvin Ashcraft]]
 *** [[http://martinfowler.com/bliki/bliki.atom][Martin Fowler's Bliki]]
 -  [[https://medium.com/feed/topic/software-engineering][Handpicked stories about Software Engineering on Medium]]
-*** [[http://www.daedtech.com/feed][DaedTech]]
+*** [[https://feeds.feedblitz.com/daedtech/www][DaedTech]]
 -  [[http://blog.frama-c.com/feed/][Frama-C news and ideas]]
 *** [[http://tirania.org/blog/miguel.rss2][Miguel de Icaza]]
 -  [[http://rss.slashdot.org/Slashdot/slashdot][Slashdot]]
