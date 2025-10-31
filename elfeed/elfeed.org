@@ -55,7 +55,7 @@
 *** [[https://blog.cleancoder.com/atom.xml][The Clean Code Blog]]
 *** [[http://feeds.feedburner.com/ThePragmaticEngineer][The Pragmatic Engineer]]
 *** [[https://seroter.com/feed/][Richard Seroter's Architecture Musings]]
-*** [[https://habr.com/en/rss/articles/?fl=en][Habr]]
+-  [[https://habr.com/en/rss/articles/?fl=en][Habr]]
 *** [[https://registerspill.thorstenball.com/feed][Register Spill]]
 *** [[https://werat.dev/index.xml][werat.dev]]
 *** [[https://matduggan.com/rss/][matduggan.com]]
