@@ -38,7 +38,7 @@
 *** [[http://feeds2.feedburner.com/alvinashcraft][Morning Dew by Alvin Ashcraft]]
 *** [[http://martinfowler.com/bliki/bliki.atom][Martin Fowler's Bliki]]
 -  [[https://medium.com/feed/topic/software-engineering][Handpicked stories about Software Engineering on Medium]]
-*** [[https://feeds.feedblitz.com/daedtech/www][DaedTech]]
+-  [[https://feeds.feedblitz.com/daedtech/www][DaedTech]]
 -  [[http://blog.frama-c.com/feed/][Frama-C news and ideas]]
 *** [[http://tirania.org/blog/miguel.rss2][Miguel de Icaza]]
 -  [[http://rss.slashdot.org/Slashdot/slashdot][Slashdot]]
@@ -96,7 +96,7 @@
 *** [[https://systemcrafters.net/rss/news.xml][System Crafters News]]
 *** [[http://funcall.blogspot.com/feeds/posts/default][Abstract Heresies]]
 *** [[https://jeffbowman.writeas.com/feed/][Bowmansarrow]]
-*** [[https://michal.sapka.me/index.xml][Michal Sapka's website]]
+- *[[https://michal.sapka.me/index.xml][Michal Sapka's website]]
 ** Science :science:
 *** [[https://www.wired.com/feed/category/science/latest/rss][Wired Science Latest]]
 -  [[http://feeds.feedburner.com/Scienceroll][ScienceRoll]]
