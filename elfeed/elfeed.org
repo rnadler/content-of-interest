@@ -87,6 +87,7 @@
 *** [[https://charity.wtf/feed/][Charity WTF]]
 *** [[https://justin.searls.co/atom.xml][Justin Searls]]
 *** [[https://obie.medium.com/feed][Obie Fernandez]]
+*** [[https://steve-yegge.medium.com/feed][Steve Yegge]]
 ** Emacs :emacs:
 *** [[https://planet.emacslife.com/atom.xml][Planet Emacslife]]
 -  [[https://irreal.org/blog/?feed=rss2][Irreal]]
